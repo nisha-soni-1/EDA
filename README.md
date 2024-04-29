@@ -1,0 +1,1 @@
+The Big Basketball dataset comprises comprehensive data on player statistics, team performance, game outcomes, and other relevant metrics spanning multiple seasons. It offers a rich source of information for basketball enthusiasts, analysts, and researchers to delve into the intricacies of the sport
